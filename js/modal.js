@@ -14,5 +14,3 @@ modal.addEventListener('click', (e) => {
         
     }
 })
-
-console.log(modalBtn)
